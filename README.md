@@ -1,2 +1,2 @@
 # Yonce-Chrome-Theme
-Yonce inspired theme for chrome
+[Yonce](https://github.com/minamarkham/yonce) inspired theme for chrome
