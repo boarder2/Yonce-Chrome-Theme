@@ -25,9 +25,15 @@
 			"omnibox_background": "rgb(47, 47, 47)",
 			"omnibox_text": "rgb(55, 229, 231)",
 			"popup_border": "rgb(252, 67, 132)",
+			"popup_highlight_text": "rgb(0,0,0)",
 			"popup_highlight": "rgb(55, 229, 231)",
 			"popup_text": "rgb(252, 67, 132)",
 			"popup": "rgb(28, 28, 28)",
+			"sidebar_border": "rgb(252, 67, 132)",
+			"sidebar_highlight_text": "rgb(28, 28, 28)",
+			"sidebar_highlight": "rgb(55, 229, 231)",
+			"sidebar_text": "rgb(252, 67, 132)",
+			"sidebar": "rgb(28, 28, 28)",
 			"tab_background_text_inactive": "rgb(102, 102, 102)",
 			"tab_background_text_incognito_inactive": "rgb(167, 171, 174)",
 			"tab_background_text_incognito": "rgb(189, 193, 198)",
@@ -35,11 +41,11 @@
 			"tab_line": "rgb(252, 67, 132)",
 			"tab_loading": "rgb(252, 67, 132)",
 			"tab_text": "rgb(252, 67, 132)",
-			"toolbar_top_separator": "rgb(10,10,10)",
 			"toolbar_bottom_separator": "rgb(55, 229, 231)",
 			"toolbar_button_icon": "rgb(252, 67, 132)",
 			"toolbar_field_text": "rgb(55, 229, 231)",
 			"toolbar_field": "rgb(47, 47, 47)",
+			"toolbar_top_separator": "rgb(10,10,10)",
 			"toolbar": "rgb(28, 28, 28)"
 		}
 	}
