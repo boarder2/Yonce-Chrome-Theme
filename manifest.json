@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Yonce Theme",
-	"description": "Yonce Chrome theme",
+	"description": "Yonce theme",
 	"version": "1.0",
 	"author": "Boarder2",
 	"theme": {
@@ -9,111 +9,38 @@
 			"theme_toolbar": "images/theme_toolbar.png"
 		},
 		"colors": {
-			"frame": [
-				10,
-				10,
-				10
-			],
-			"frame_inactive": [
-				10,
-				10,
-				10
-			],
-			"frame_incognito": [
-				32,
-				33,
-				36
-			],
-			"frame_incognito_inactive": [
-				60,
-				64,
-				67
-			],
-			"background_tab": [
-				10,
-				10,
-				10
-			],
-			"background_tab_inactive": [
-				10,
-				10,
-				10
-			],
-			"background_tab_incognito": [
-				10,
-				10,
-				10
-			],
-			"background_tab_incognito_inactive": [
-				10,
-				10,
-				10
-			],
-			"bookmark_text": [
-				252,
-				67,
-				132
-			],
-			"tab_background_text": [
-				166,
-				166,
-				166
-			],
-			"tab_background_text_inactive": [
-				102,
-				102,
-				102
-			],
-			"tab_background_text_incognito": [
-				189,
-				193,
-				198
-			],
-			"tab_background_text_incognito_inactive": [
-				167,
-				171,
-				174
-			],
-			"tab_text": [
-				252,
-				67,
-				132
-			],
-			"toolbar": [
-				28,
-				28,
-				28
-			],
-			"toolbar_button_icon": [
-				252,
-				67,
-				132
-			],
-			"omnibox_text": [
-				55,
-				229,
-				231
-			],
-			"omnibox_background": [
-				47,
-				47,
-				47
-			],
-			"ntp_link": [
-				252,
-				67,
-				132
-			],
-			"ntp_text": [
-				252,
-				67,
-				132
-			],
-			"ntp_background": [
-				47,
-				47,
-				47
-			]
+			"background_tab_inactive": "rgb(10,10,10)",
+			"background_tab_incognito_inactive": "rgb(10,10,10)",
+			"background_tab_incognito": "rgb(10,10,10)",
+			"background_tab": "rgb(10,10,10)",
+			"bookmark_text": "rgb(252, 67, 132)",
+			"frame_inactive": "rgb(10,10,10)",
+			"frame_incognito_inactive": "rgb(60, 64, 67)",
+			"frame_incognito": "rgb(32, 33, 36)",
+			"frame": "rgb(10,10,10)",
+			"icons": "rgb(252, 67, 132)",
+			"ntp_background": "rgb(47, 47, 47)",
+			"ntp_link": "rgb(252, 67, 132)",
+			"ntp_text": "rgb(252, 67, 132)",
+			"omnibox_background": "rgb(47, 47, 47)",
+			"omnibox_text": "rgb(55, 229, 231)",
+			"popup_border": "rgb(252, 67, 132)",
+			"popup_highlight": "rgb(55, 229, 231)",
+			"popup_text": "rgb(252, 67, 132)",
+			"popup": "rgb(28, 28, 28)",
+			"tab_background_text_inactive": "rgb(102, 102, 102)",
+			"tab_background_text_incognito_inactive": "rgb(167, 171, 174)",
+			"tab_background_text_incognito": "rgb(189, 193, 198)",
+			"tab_background_text": "rgb(166, 166, 166)",
+			"tab_line": "rgb(252, 67, 132)",
+			"tab_loading": "rgb(252, 67, 132)",
+			"tab_text": "rgb(252, 67, 132)",
+			"toolbar_top_separator": "rgb(10,10,10)",
+			"toolbar_bottom_separator": "rgb(55, 229, 231)",
+			"toolbar_button_icon": "rgb(252, 67, 132)",
+			"toolbar_field_text": "rgb(55, 229, 231)",
+			"toolbar_field": "rgb(47, 47, 47)",
+			"toolbar": "rgb(28, 28, 28)"
 		}
 	}
 }
