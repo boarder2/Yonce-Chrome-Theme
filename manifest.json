@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Yonce Theme",
 	"description": "Yonce theme",
-	"version": "1.0",
+	"version": "1.1",
 	"author": "Boarder2",
 	"theme": {
 		"images": {
@@ -47,6 +47,10 @@
 			"toolbar_field": [47, 47, 47],
 			"toolbar_top_separator": [10,10,10],
 			"toolbar": [28, 28, 28]
+		},
+		"tints":
+		{
+			"buttons": [0.925, 1.0, 0.5]
 		}
 	}
 }
