@@ -2,12 +2,9 @@
 	"manifest_version": 3,
 	"name": "Yonce Theme",
 	"description": "Yonce theme",
-	"version": "1.1",
+	"version": "1.2",
 	"author": "Boarder2",
 	"theme": {
-		"images": {
-			"theme_toolbar": "images/theme_toolbar.png"
-		},
 		"colors": {
 			"background_tab_inactive": [10,10,10],
 			"background_tab_incognito_inactive": [10,10,10],
